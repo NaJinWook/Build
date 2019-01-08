@@ -6,7 +6,7 @@ namespace Build
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("LostArk devil hunter");
+            Console.WriteLine("LostArk bard bed");
         }
     }
 }
